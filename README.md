@@ -3,11 +3,13 @@ Mod de Forager que añade el idioma de español españa.
 
 Instruciones:
 
-descargare el archivo y ponerlo en"\Forager\local"
+descargar el archivo español-españa.json y ponerlo en"\Forager\local"
 
-Si lo tienes en steam ponerlo en "\SteamLibrary\steamapps\common\Forager\local"
+Si tienes Forager en steam, ponerlo en "\SteamLibrary\steamapps\common\Forager\local"
 
-aqui estan los cambios:
+Para descargarlo tiene que entrar en el documento español-españa.json y arriva a la derecha vera el simbolo de descargar.
+
+cambios:
 
 topaz=topacio
 
