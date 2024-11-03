@@ -36,4 +36,4 @@ limo=slime
 
 Aviso:
 
-El mod no saldra en mods hay que ir a la configuracion y poner el idioma llamado "español[españa]".
+Dentro de  Forager,el mod no saldra en mods, hay que ir a la configuracion y poner el idioma llamado "español[españa]".
