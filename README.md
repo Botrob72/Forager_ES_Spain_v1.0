@@ -21,6 +21,7 @@ piqueta=pico
 
 algun "de" por "del"
 
+
 alas de vampyr=alas de vampiro
 
 cartera=monedero
@@ -32,3 +33,7 @@ puesto de custura=telar
 piedrivoro=litofagia
 
 limo=slime
+
+Aviso:
+
+El mod no saldra en mods hay que ir a la configuracion y poner el idioma llamado "español[españa]".
